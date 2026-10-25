@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Lunea – Achtsamkeit · Mond · Zyklus",
+  "short_name": "Lunea",
+  "description": "Dein Begleiter für Achtsamkeit, Mond, Zyklus, Ernährung und Me-Time.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#09160f",
+  "theme_color": "#10251a",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
